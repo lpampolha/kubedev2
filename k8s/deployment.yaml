@@ -22,7 +22,7 @@ spec:
           - name: POSTGRES_USER
             value: "kubenews"
           - name: POSTGRES_PASSWORD
-            value: "Pg#123"
+            value: 123456
           
 ---
 
@@ -63,7 +63,7 @@ spec:
           - name: DB_USERNAME
             value: "kubenews"
           - name: DB_PASSWORD
-            value: "Pg#123" 
+            value: 123456 
           - name: DB_HOST
             value: "postgre"
 ---
