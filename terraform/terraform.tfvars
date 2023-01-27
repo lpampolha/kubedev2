@@ -1,3 +1,3 @@
-do_token = "dop_v1_9243e0ac99f33186d6b78e4a2ed3265732f7447baef48957c06ebe81563b8583"
+do_token = "dop_v1_021f172109a60b66218fe2167b249a0c236332ae5cccf056c718d1013e902d5e"
 ssh_key_name = "Probook"
 region = "nyc1"
