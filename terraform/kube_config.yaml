@@ -15,4 +15,4 @@ preferences: {}
 users:
 - name: do-nyc1-k8s-admin
   user:
-    token: dop_v1_66e633d60e6717dacfbfb8bd3a3b7f8b27f65133f20800bec5d6ed81d2592a7b
+    token: dop_v1_de360fc5892016ef31fd44c01e73031145ad6ea4c1fb66e916c14edb9c918622
