@@ -103,5 +103,6 @@ node_modules/
 # # TernJS port file
 # .tern-port
 
-
+terraform/token
+terraform/terraform.tfvars
 *.Identifier
